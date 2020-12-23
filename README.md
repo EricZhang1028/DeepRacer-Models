@@ -7,7 +7,7 @@
 
 ## Hyperparameters
 <p align="center">
-    <img src="images/hyperparamters.png" width="70%" height="70%">
+    <img src="images/hyperparameters.png" width="70%" height="70%">
 </p>
 
 ## Reward Growth
