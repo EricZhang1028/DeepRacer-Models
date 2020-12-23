@@ -1,6 +1,6 @@
 # DeepRacer-Models
 
-## Reward function desigh(final version)
+## Reward function design(final version)
 <p align="center">
     <img src="images/reward_function.png" width="70%" height="70%">
 </p>
